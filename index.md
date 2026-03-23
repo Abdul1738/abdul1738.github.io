@@ -1,9 +1,12 @@
 # Abdul Lagao
-Cybersecurity & Cloud Security Portfolio
+## Cybersecurity Portfolio
 
-Welcome to my portfolio website. Here are my projects, certifications, and resume.
+Welcome to my professional portfolio website.
 
-- About Me
-- Cybersecurity Projects
-- Certifications
-- Resume
+## Menu
+- [About Me](about)
+- [Cybersecurity Projects](projects)
+- [Certifications](certs)
+- [Resume](resume)
+- [GitHub](https://github.com/abdul1738)
+- [LinkedIn](https://linkedin.com)
